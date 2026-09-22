@@ -1,6 +1,7 @@
 # FFDownloader
 
 Automated tool to resolve `fuckingfast.net` download links into direct file URLs.
+Useful for generating direct download Links for `fuckinfast.net` (`www.elamigosgames.net` uses this links instead of `fuckingfast.co`)
 
 ## Requirements
 
@@ -25,6 +26,8 @@ py ffdownloader.py
 ```
 
 3. Check `output.txt` for resolved direct download URLs:
+
+4. Use the `output.txt` directly in your favourite downloader(e.g. IDM, goto Tasks-->Import-->From txt file) to grab the download files.
 
 ## How It Works
 
